@@ -6,7 +6,7 @@ import { px } from 'framer-motion'
 
 const navBar = () => {
   return (
-    <HStack justifyContent={'space-between'} padding={'10px'}>
+    <HStack justifyContent={'space-between'} padding={'12px'}>
         <Image boxSize={'60px'} src={logo} />
         <ColorModeSwitch /> 
     </HStack>
