@@ -10,7 +10,7 @@ import getCroppedImageUrl from '../services/image-url'
 import Emoji from './Emoji'
 
 interface GameCardProps {
-    game: Game
+    game: Game,
 }
 
 const GameCard = ({game}: GameCardProps) => {
