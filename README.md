@@ -33,12 +33,9 @@ It lets users browse games, filter by genre and platform, and explore new titles
 
 ---
 
-## 📚 About the Course
+## 📚 About the Project
 
-This project is based on the GameHub app built in the  
-**“Ultimate React 18 – Code with Mosh”** course by **Mosh Hamedani**.
-
-During the course, I learned and practiced:
+During the project, I learned and practiced:
 
 - Modern React with hooks (useState, useEffect, custom hooks)
 - TypeScript with React components and props
