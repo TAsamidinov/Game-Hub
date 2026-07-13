@@ -10,6 +10,8 @@ It lets users browse games, filter by genre and platform, and explore new titles
 👉 **Game Hub on Vercel:** https://game-hub-eight-alpha-60.vercel.app
 
 ---
+**Dashboard** — daily financial summary for the active business: wallet balances, quick transaction entry, and today's activity.
+![Dashboard](docs/screenshots/1.png)
 
 ## ✨ Features
 
